@@ -24,5 +24,5 @@ with open('student_arrival.txt', 'a') as file:
 		else:
 			print(f'Welcome to Barcelona, {student}. We hope you are enjoying the first few days.', file=file)
 	else:
-		print('We hope to see you soon', file = file)	
+		print('We hope to see you soon and would be very interested in your age and maternal language!', file = file)	
 
